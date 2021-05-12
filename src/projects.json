@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "description": "'A Taste From Home'--Find recipes or restaurants near you to satisfy your cravings (group project).",
+        "url": "https://dorrianweber.github.io/group-6-project/",
+        "screenshot": "https://raw.githubusercontent.com/dorrianweber/group-6-project/main/assets/Images/A-taste-from-home.JPG",
+        "alt": "Screenshot of A Taste From Home application"
+    },
+    {
+        "id": 2,
+        "description": "'Healthy Habits'--A simple habit-tracking app, allowing users who create an account to monitor their spending, diet, and sleep patterns (group project).",
+        "url": "https://pacific-meadow-78512.herokuapp.com/",
+        "screenshot": "https://raw.githubusercontent.com/dorrianweber/project2/main/public/images/Healthyhabits-profilepage.jpg",
+        "alt": "Screenshot of Healthy Habits application"
+    },
+    {
+        "id": 3,
+        "description": "'Weather Dashboard'--Search by city for current weather conditions & a 5-day forecast.",
+        "url": "https://dorrianweber.github.io/weatherDashboard/",
+        "screenshot": "https://raw.githubusercontent.com/dorrianweber/weatherDashboard/main/assets/1.png",
+        "alt": "Screenshot of Weather Dashboard application"
+    },
+    {
+        "id": 3,
+        "description": "'Work Day Scheduler'--Save events to a daily planner.",
+        "url": "https://dorrianweber.github.io/work-day-scheduler/",
+        "screenshot": "https://raw.githubusercontent.com/dorrianweber/work-day-scheduler/main/assets/1.png",
+        "alt": "Screenshot of Work Day Scheduler application"
+    },
+    {
+        "id": 4,
+        "description": "'Code Quiz'--A simple quiz with a timer & high-score system.",
+        "url": "https://dorrianweber.github.io/codeQuiz/",
+        "screenshot": "https://raw.githubusercontent.com/dorrianweber/codeQuiz/main/assets/1.png",
+        "alt": "Screenshot of Code Quiz application"
+    },
+    {
+        "id": 5,
+        "description": "'Password Generator'--Generates a random password based on user-selected criteria.",
+        "url": "https://dorrianweber.github.io/passwordGenerator/",
+        "screenshot": "https://raw.githubusercontent.com/dorrianweber/passwordGenerator/main/assets/completedScreenshot.png",
+        "alt": "Screenshot of Password Generator application"
+    }
+]
